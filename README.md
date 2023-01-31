@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in AI, Cloud & mobile development
-- 🌱 I’m currently learning Software Engineering in 42 Wolfsburg!
-- 💞️ I’m looking to collaborate on ...
+- 👀 DevOps Engineer
 - 📫 You can reach me on: linkedin.com/in/daniel-mazurkiewicz-30319310b/
 
 <!---
